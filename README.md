@@ -10,7 +10,7 @@
 >
 > My personal focus was primarily on implementing different design patterns described in *Design Patterns* (1995) by Erich Gamma et al.
 
-![WeatherConsoleApp](https://imgur.com/a/LXX5zTQ "WeatherConsoleApp: plats>hämta>{location}")
+![WeatherConsoleApp](https://i.imgur.com/mHVStqM.png "WeatherConsoleApp: plats>hämta>{location}")
 
 The app supports adding forecast locations, fetching weather data using SMHI Web API, searching for a specific weather type (against the fetched weather data in accordance with the SMHI use policy). 
 
