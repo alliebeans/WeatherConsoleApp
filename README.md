@@ -8,7 +8,7 @@
 
 > This was created as a school assignment
 >
-> My personal focus was primarily on implementing different design patterns described in *Design Patterns* (1995) by Erich Gamma et al.
+> My personal focus was primarily on implementing different design patterns described in *Design Patterns* (1995) by Erich Gamma et al, and experimenting with simple navigation.
 
 ![WeatherConsoleApp](https://i.imgur.com/mHVStqM.png "WeatherConsoleApp: plats>hämta>{location}")
 
